@@ -6,3 +6,5 @@ nuevo cambio
 Pratica mac
 cambio ahora 20260417 0755
 nuevo cambio 20260417 0800
+
+cambios de mi rama local en la rama developer
