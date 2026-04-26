@@ -1,0 +1,5 @@
+/workspaces/HelloAgain/proyecto1/obj/Debug/net10.0/proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HelloAgain/proyecto1/obj/Debug/net10.0/proyecto1.AssemblyInfoInputs.cache
+/workspaces/HelloAgain/proyecto1/obj/Debug/net10.0/proyecto1.AssemblyInfo.cs
+/workspaces/HelloAgain/proyecto1/obj/Debug/net10.0/proyecto1.csproj.CoreCompileInputs.cache
+/workspaces/HelloAgain/proyecto1/obj/Debug/net10.0/proyecto1.sourcelink.json
